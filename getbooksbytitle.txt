@@ -1,0 +1,3 @@
+curl --request GET 'http://localhost:5000/title/Fairy tales'
+
+[{"isbn":"2","author":"Hans Christian Andersen","title":"Fairy tales","reviews":{}}]
